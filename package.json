@@ -7,7 +7,7 @@
   "author": "Gabriel Araujo",
   "license": "MIT",
   "scripts": {
-    "dev": "ts-node-dev --respawn --transpileOnly src/index.ts"
+    "dev": "tsnd --respawn --transpile-only src/index.ts"
   },
   "dependencies": {
     "express": "^4.17.1"
