@@ -1,0 +1,15 @@
+{
+  "name": "masterclass-typescript-api",
+  "version": "1.0.0",
+  "description": "Studying TS",
+  "main": "index.ts",
+  "repository": "https://github.com/gabrieldeoa/masterclass-typescript-api.git",
+  "author": "Gabriel Araujo",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "typescript": "^3.9.7"
+  }
+}
